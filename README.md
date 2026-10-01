@@ -16,3 +16,7 @@ Edit `index.html` to update biography, publications, and research links. Edit `s
 - Author ORCID: https://orcid.org/0009-0007-8081-9997
 
 The INCoS paper is labelled with its 2014 conference year and a note that the university records publication on 9 March 2015. The published spelling “Criterias” is retained in the ICCVE title. Authorship of both earlier papers was confirmed by the author.
+
+## Visual assets
+Custom cybersecurity hero artwork created with the built-in image generator. Interface icons are from Lucide; their license is included in assets/lucide-LICENSE.txt.
+
