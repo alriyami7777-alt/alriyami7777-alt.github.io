@@ -1,0 +1,77 @@
+{
+  "lastReviewed": "2026-10-02",
+  "items": [
+    {
+      "id": "nist-agent-identity-20260929",
+      "type": "news",
+      "title": "NIST shares feedback on AI-agent identity and authorisation",
+      "authors": "NIST National Cybersecurity Center of Excellence",
+      "venue": "Official project update",
+      "date": "2026-09-29",
+      "dateLabel": "29 September 2026",
+      "url": "https://www.nccoe.nist.gov/news-insights/comments-software-and-agentic-si-identity-concept-paper",
+      "summary": "NCCoE has published feedback on its agent-identity project and selected software development as the first implementation use case.",
+      "relevance": "Relevant to attributing automated actions and limiting the authority of agents working inside an organisation."
+    },
+    {
+      "id": "nist-devsecops-20260924",
+      "type": "news",
+      "title": "New DevSecOps resources and an agentic-AI project update",
+      "authors": "NIST National Cybersecurity Center of Excellence",
+      "venue": "Official project update",
+      "date": "2026-09-24",
+      "dateLabel": "24 September 2026",
+      "url": "https://www.nccoe.nist.gov/news-insights/new-nist-nccoe-resources-devsecops-and-october-28-webinar-agentic-si",
+      "summary": "New resources connect secure-development practices with example pipelines and plans for agentic AI. The announcement also lists a webinar on 28 October 2026.",
+      "relevance": "A practical connection between AI-agent research, identity controls, and secure software development."
+    },
+    {
+      "id": "cert-dataset-decade-2026",
+      "type": "paper",
+      "title": "The CERT Dataset Decade: A Systematic Review of Methodological Evolution and Performance Bias",
+      "authors": "Marko Jurišić and Igor Tomičić",
+      "venue": "Journal of Criminal Justice and Security",
+      "date": "2026",
+      "dateLabel": "2026",
+      "url": "https://www.fvv.um.si/rv/arhiv/2026/2026-02-Jurisic-Tomicic-E.html",
+      "summary": "A review of methodological limitations in machine-learning studies using CERT, including how evaluation choices affect the interpretation of reported performance.",
+      "relevance": "Useful context for checking whether apparently comparable benchmark results answer the same research question."
+    },
+    {
+      "id": "spedia-2026",
+      "type": "paper",
+      "title": "The SPEDIA dataset",
+      "authors": "David Álvarez Muñiz and colleagues",
+      "venue": "Computers & Security, volume 161, article 104743",
+      "date": "2026-02",
+      "dateLabel": "February 2026",
+      "url": "https://doi.org/10.1016/j.cose.2025.104743",
+      "summary": "A published dataset study combining behaviour collected in a controlled cyber exercise, simulated activity, and synthetic data derived from CERT.",
+      "relevance": "A useful example of why dataset provenance matters when constructing independent transfer evaluations."
+    },
+    {
+      "id": "attention-not-explanation-2019",
+      "type": "paper",
+      "title": "Attention is not Explanation",
+      "authors": "Sarthak Jain and Byron C. Wallace",
+      "venue": "NAACL-HLT 2019",
+      "date": "2019-06",
+      "dateLabel": "June 2019 · Foundational reading",
+      "url": "https://aclanthology.org/N19-1357/",
+      "summary": "Experiments on NLP models examine the relationship between attention weights and predictions, challenging the assumption that attention automatically explains a decision.",
+      "relevance": "A methodological prompt for security researchers to test explanation faithfulness in their own model and task."
+    },
+    {
+      "id": "saliency-sanity-2018",
+      "type": "paper",
+      "title": "Sanity Checks for Saliency Maps",
+      "authors": "Julius Adebayo and colleagues",
+      "venue": "NeurIPS 2018",
+      "date": "2018",
+      "dateLabel": "2018 · Foundational reading",
+      "url": "https://papers.nips.cc/paper/2018/hash/294a8ed24b1ad22ec2e7efea049b8737-Abstract.html",
+      "summary": "A study of how to evaluate saliency methods, showing why visually convincing explanations alone are insufficient evidence of reliability.",
+      "relevance": "A starting point for designing checks of whether an explanation depends on what a model has learned."
+    }
+  ]
+}
