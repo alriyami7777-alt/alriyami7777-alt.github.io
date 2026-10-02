@@ -1,0 +1,63 @@
+{
+  "myPapers": [
+    {
+      "id": "alriyami-ijacsa-2026",
+      "title": "Does It Generalize? A Cross-Dataset Study of Graph-Based Insider Threat Detection Beyond CERT",
+      "authors": "Qasim Mohamed Muhanna Alriyami and Mohd Murtadha Bin Mohamad",
+      "venue": "International Journal of Advanced Computer Science and Applications, 17(9)",
+      "dateLabel": "2026",
+      "url": "https://thesai.org/Publications/ViewPaper?Volume=17&Issue=9&Code=IJACSA&SerialNo=91"
+    },
+    {
+      "id": "alriyami-incos-2014",
+      "title": "A Survey of Intrusion Detection Systems for Mobile Ad Hoc Networks",
+      "authors": "Q. M. Alriyami, E. Asimakopoulou, and N. Bessis",
+      "venue": "2014 International Conference on Intelligent Networking and Collaborative Systems, pp. 427–432",
+      "dateLabel": "INCoS 2014",
+      "note": "2014 conference; the university record dates publication to 9 March 2015.",
+      "url": "https://doi.org/10.1109/INCoS.2014.27"
+    },
+    {
+      "id": "alriyami-iccve-2014",
+      "title": "Evaluation Criterias for Trust Management in Vehicular Ad-hoc Networks (VANETs)",
+      "authors": "Q. Alriyami, A. Adnane, and A. K. Smith",
+      "venue": "2014 International Conference on Connected Vehicles and Expo, pp. 118–123",
+      "dateLabel": "ICCVE 2014",
+      "url": "https://doi.org/10.1109/ICCVE.2014.7297525"
+    }
+  ],
+  "referencedPapers": [
+    {
+      "id": "cert-dataset-decade-2026",
+      "title": "The CERT Dataset Decade: A Systematic Review of Methodological Evolution and Performance Bias",
+      "authors": "Marko Jurišić and Igor Tomičić",
+      "venue": "Journal of Criminal Justice and Security",
+      "dateLabel": "2026",
+      "url": "https://www.fvv.um.si/rv/arhiv/2026/2026-02-Jurisic-Tomicic-E.html"
+    },
+    {
+      "id": "spedia-2026",
+      "title": "Design and generation of a dataset for training insider threat prevention and detection models: The SPEDIA dataset",
+      "authors": "David Álvarez Muñiz and colleagues",
+      "venue": "Computers & Security, volume 161, article 104743",
+      "dateLabel": "February 2026",
+      "url": "https://doi.org/10.1016/j.cose.2025.104743"
+    },
+    {
+      "id": "attention-not-explanation-2019",
+      "title": "Attention is not Explanation",
+      "authors": "Sarthak Jain and Byron C. Wallace",
+      "venue": "NAACL-HLT 2019",
+      "dateLabel": "June 2019 · Foundational reading",
+      "url": "https://aclanthology.org/N19-1357/"
+    },
+    {
+      "id": "saliency-sanity-2018",
+      "title": "Sanity Checks for Saliency Maps",
+      "authors": "Julius Adebayo and colleagues",
+      "venue": "NeurIPS 2018",
+      "dateLabel": "2018 · Foundational reading",
+      "url": "https://papers.nips.cc/paper/2018/hash/294a8ed24b1ad22ec2e7efea049b8737-Abstract.html"
+    }
+  ]
+}
