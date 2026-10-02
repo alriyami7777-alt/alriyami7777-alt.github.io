@@ -44,3 +44,7 @@ Repository: `alriyami7777-alt/alriyami7777-alt.github.io`, branch `main`. Live U
 Fetch the current main revision and preserve unrelated edits. For local work, the website copy is at C:/PhD/07_Projects/qasim-academic-profile/website; refresh it from the current remote before changing it. Update JSON, render the reading section, verify all local links and the three original publications, then publish only the intended changed files in a normal non-forced commit. Do not force-push. If the branch changes during publication, reread and reconcile rather than overwriting.
 
 Verify the stored files by reading them back and check the GitHub Pages deployment and the live reading section. Keep the local offline preview and Qasim_Academic_Profile.zip backup current when local access is available. If source retrieval, authenticated writes or deployment fails, preserve working content and report the concrete failure here. Never claim that a failed or unverified publication succeeded. Stay quiet when nothing meaningful has changed; notify here only for a material reading update, failure, or required user action.
+
+## Author-requested details
+
+Keep the three completed qualifications as supplied by the author, without invented graduation years. Use the direct publisher page for the IJACSA paper: https://thesai.org/Publications/ViewPaper?Volume=17&Issue=9&Code=IJACSA&SerialNo=91 . The author reported that its DOI resolver link does not work; do not restore that link.
