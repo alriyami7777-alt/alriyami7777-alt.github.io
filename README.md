@@ -47,11 +47,11 @@ Verify the stored files by reading them back and check the GitHub Pages deployme
 
 ## Author-requested details
 
-Keep the three completed qualifications as supplied by the author, without invented graduation years. Use the direct publisher page for the IJACSA paper: https://thesai.org/Publications/ViewPaper?Volume=17&Issue=9&Code=IJACSA&SerialNo=91 . The author reported that its DOI resolver link does not work; do not restore that link.
+Keep only the two listed completed qualifications as supplied by the author; do not reintroduce removed qualifications, without invented graduation years. Use the direct publisher page for the IJACSA paper: https://thesai.org/Publications/ViewPaper?Volume=17&Issue=9&Code=IJACSA&SerialNo=91 . The author reported that its DOI resolver link does not work; do not restore that link.
 
 ## Institutions and datasets
 
-Education cards link to official UQ, Derby and CGSC websites. The dataset field guide links to the original CERT/SEI page, SPEDIA creator record on Zenodo (15525713), and LANL multi-source event dataset. Summaries were checked against those primary sources on 2 October 2026. Keep provenance distinctions visible; these are external datasets, not datasets authored by Qasim. Routine reading refreshes should preserve this section.
+Education cards link to official UQ and Derby websites. The dataset field guide links to the original CERT/SEI page, SPEDIA creator record on Zenodo (15525713), and LANL multi-source event dataset. Summaries were checked against those primary sources on 2 October 2026. Keep provenance distinctions visible; these are external datasets, not datasets authored by Qasim. Routine reading refreshes should preserve this section.
 
 ## All papers page
 
