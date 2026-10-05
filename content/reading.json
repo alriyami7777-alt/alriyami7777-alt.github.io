@@ -1,5 +1,5 @@
 {
-  "lastReviewed": "2026-10-02",
+  "lastReviewed": "2026-10-05",
   "items": [
     {
       "id": "nist-agent-identity-20260929",
@@ -24,6 +24,18 @@
       "url": "https://www.nccoe.nist.gov/news-insights/new-nist-nccoe-resources-devsecops-and-october-28-webinar-agentic-si",
       "summary": "New resources connect secure-development practices with example pipelines and plans for agentic AI. The announcement also lists a webinar on 28 October 2026.",
       "relevance": "A practical connection between AI-agent research, identity controls, and secure software development."
+    },
+    {
+      "id": "shap-insider-reclassification-2026",
+      "type": "paper",
+      "title": "Towards trustworthy cybersecurity: Reclassifying insider threat detection using SHAP",
+      "authors": "Raddad Faqihi, Priyadarsi Nanda, Manoranjan Mohanty, Saleh Alqahtani and Bashair Alrashed",
+      "venue": "Future Generation Computer Systems, volume 183, article 108543",
+      "date": "2026-10",
+      "dateLabel": "October 2026",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167739X26001779",
+      "summary": "A study combining SHAP feature attributions with security-domain knowledge to support analyst-guided reclassification of insider-threat predictions. The reported evaluation uses CMU CERT data.",
+      "relevance": "Connects explanation assessment with analyst judgement. Its CERT-based findings are a useful prompt for testing explanation quality and transfer beyond a single benchmark."
     },
     {
       "id": "cert-dataset-decade-2026",
