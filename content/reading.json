@@ -1,5 +1,5 @@
 {
-  "lastReviewed": "2026-10-05",
+  "lastReviewed": "2026-10-12",
   "items": [
     {
       "id": "nist-agent-identity-20260929",
@@ -36,6 +36,18 @@
       "url": "https://www.sciencedirect.com/science/article/pii/S0167739X26001779",
       "summary": "A study combining SHAP feature attributions with security-domain knowledge to support analyst-guided reclassification of insider-threat predictions. The reported evaluation uses CMU CERT data.",
       "relevance": "Connects explanation assessment with analyst judgement. Its CERT-based findings are a useful prompt for testing explanation quality and transfer beyond a single benchmark."
+    },
+    {
+      "id": "session-cert-spedia-2026",
+      "type": "paper",
+      "title": "A session-based insider threat detection approach leveraging the CERT and SPEDIA datasets",
+      "authors": "Alberto Mateo Muñoz, Xavier Larriva-Novo, Carmen Sánchez-Zas, Manuel Alvarez-Campana and Victor A. Villagra",
+      "venue": "Machine Learning with Applications, volume 25, article 100946",
+      "date": "2026-09",
+      "dateLabel": "September 2026",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666827026001118",
+      "summary": "A study that groups activity logs into sessions represented by 36 features, then evaluates supervised and unsupervised detection methods on CERT r4.2 and SPEDIA.",
+      "relevance": "Useful for examining how session boundaries and feature construction affect evaluation. SPEDIA includes CERT-derived events, so the subsets used matter when interpreting cross-dataset evidence."
     },
     {
       "id": "cert-dataset-decade-2026",
