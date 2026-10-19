@@ -1,5 +1,5 @@
 {
-  "lastReviewed": "2026-10-12",
+  "lastReviewed": "2026-10-19",
   "items": [
     {
       "id": "nist-agent-identity-20260929",
@@ -24,6 +24,18 @@
       "url": "https://www.nccoe.nist.gov/news-insights/new-nist-nccoe-resources-devsecops-and-october-28-webinar-agentic-si",
       "summary": "New resources connect secure-development practices with example pipelines and plans for agentic AI. The announcement also lists a webinar on 28 October 2026.",
       "relevance": "A practical connection between AI-agent research, identity controls, and secure software development."
+    },
+    {
+      "id": "counterfactual-routine-deviation-2026",
+      "type": "paper",
+      "title": "Counterfactual Routine Deviation: Personalised Behavioural Modelling for Insider Threat Detection",
+      "authors": "Christian Bowie, Hadi Larijani and Ayyaz Qureshi",
+      "venue": "Computers, volume 15, issue 10, article 701",
+      "date": "2026-10-10",
+      "dateLabel": "10 October 2026",
+      "url": "https://researchonline.gcu.ac.uk/en/publications/counterfactual-routine-deviation-personalised-behavioural-modelli/",
+      "summary": "A published study compares deviations from each user's historical routine with peer-based behavioural baselines using CERT r6.2. Its evaluation includes a later time period and users withheld from model fitting.",
+      "relevance": "Useful for separating ranking performance from practical alert quality: the study reports low precision and weak generalisation to unseen users, motivating independent validation."
     },
     {
       "id": "shap-insider-reclassification-2026",
@@ -72,18 +84,6 @@
       "url": "https://doi.org/10.1016/j.cose.2025.104743",
       "summary": "A published dataset study combining behaviour collected in a controlled cyber exercise, simulated activity, and synthetic data derived from CERT.",
       "relevance": "A useful example of why dataset provenance matters when constructing independent transfer evaluations."
-    },
-    {
-      "id": "attention-not-explanation-2019",
-      "type": "paper",
-      "title": "Attention is not Explanation",
-      "authors": "Sarthak Jain and Byron C. Wallace",
-      "venue": "NAACL-HLT 2019",
-      "date": "2019-06",
-      "dateLabel": "June 2019 · Foundational reading",
-      "url": "https://aclanthology.org/N19-1357/",
-      "summary": "Experiments on NLP models examine the relationship between attention weights and predictions, challenging the assumption that attention automatically explains a decision.",
-      "relevance": "A methodological prompt for security researchers to test explanation faithfulness in their own model and task."
     },
     {
       "id": "saliency-sanity-2018",
