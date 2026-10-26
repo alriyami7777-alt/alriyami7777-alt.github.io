@@ -1,5 +1,5 @@
 {
-  "lastReviewed": "2026-10-19",
+  "lastReviewed": "2026-10-26",
   "items": [
     {
       "id": "nist-agent-identity-20260929",
@@ -24,6 +24,18 @@
       "url": "https://www.nccoe.nist.gov/news-insights/new-nist-nccoe-resources-devsecops-and-october-28-webinar-agentic-si",
       "summary": "New resources connect secure-development practices with example pipelines and plans for agentic AI. The announcement also lists a webinar on 28 October 2026.",
       "relevance": "A practical connection between AI-agent research, identity controls, and secure software development."
+    },
+    {
+      "id": "human-insider-expert-perceptions-2026",
+      "type": "paper",
+      "title": "Grounded theory insights into human insider threats: a qualitative study of expert perceptions",
+      "authors": "Marcus L. Green, Priya D. Dozier and Eric Owusu",
+      "venue": "Frontiers in Computer Science, volume 8, article 1854879",
+      "date": "2026-10-22",
+      "dateLabel": "22 October 2026",
+      "url": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1854879/full",
+      "summary": "Interviews with 15 cybersecurity professionals inform a framework connecting insider risk with employee behaviour, organisational culture, training and access controls.",
+      "relevance": "Adds human and organisational context to behavioural detection research. The small, purposively selected expert sample and absence of interviews with offenders limit generalisation."
     },
     {
       "id": "counterfactual-routine-deviation-2026",
@@ -72,18 +84,6 @@
       "url": "https://www.fvv.um.si/rv/arhiv/2026/2026-02-Jurisic-Tomicic-E.html",
       "summary": "A review of methodological limitations in machine-learning studies using CERT, including how evaluation choices affect the interpretation of reported performance.",
       "relevance": "Useful context for checking whether apparently comparable benchmark results answer the same research question."
-    },
-    {
-      "id": "spedia-2026",
-      "type": "paper",
-      "title": "The SPEDIA dataset",
-      "authors": "David Álvarez Muñiz and colleagues",
-      "venue": "Computers & Security, volume 161, article 104743",
-      "date": "2026-02",
-      "dateLabel": "February 2026",
-      "url": "https://doi.org/10.1016/j.cose.2025.104743",
-      "summary": "A published dataset study combining behaviour collected in a controlled cyber exercise, simulated activity, and synthetic data derived from CERT.",
-      "relevance": "A useful example of why dataset provenance matters when constructing independent transfer evaluations."
     },
     {
       "id": "saliency-sanity-2018",
