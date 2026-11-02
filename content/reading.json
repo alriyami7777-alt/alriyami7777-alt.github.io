@@ -1,6 +1,18 @@
 {
-  "lastReviewed": "2026-10-26",
+  "lastReviewed": "2026-11-02",
   "items": [
+    {
+      "id": "nist-agent-identity-design-tenets-20261027",
+      "type": "news",
+      "title": "Design Tenets for Agent Identity Management Systems",
+      "authors": "Harold Booth, Bill Fisher, Ryan Galluzzo and Tom Clancy",
+      "venue": "NIST Cybersecurity Insights · Official blog",
+      "date": "2026-10-27",
+      "dateLabel": "27 October 2026",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems",
+      "summary": "NIST outlines ten initial design principles for agent identity and access, including distinct identities, constrained delegation, short-lived permissions and human review. This is a project blog discussion, not a final standard.",
+      "relevance": "Useful for examining how automated actions can be traced to their originator and how access can be revoked when behaviour changes. It also separates permission enforcement from an agent's reasoning."
+    },
     {
       "id": "nist-agent-identity-20260929",
       "type": "news",
@@ -12,18 +24,6 @@
       "url": "https://www.nccoe.nist.gov/news-insights/comments-software-and-agentic-si-identity-concept-paper",
       "summary": "NCCoE has published feedback on its agent-identity project and selected software development as the first implementation use case.",
       "relevance": "Relevant to attributing automated actions and limiting the authority of agents working inside an organisation."
-    },
-    {
-      "id": "nist-devsecops-20260924",
-      "type": "news",
-      "title": "New DevSecOps resources and an agentic-AI project update",
-      "authors": "NIST National Cybersecurity Center of Excellence",
-      "venue": "Official project update",
-      "date": "2026-09-24",
-      "dateLabel": "24 September 2026",
-      "url": "https://www.nccoe.nist.gov/news-insights/new-nist-nccoe-resources-devsecops-and-october-28-webinar-agentic-si",
-      "summary": "New resources connect secure-development practices with example pipelines and plans for agentic AI. The announcement also lists a webinar on 28 October 2026.",
-      "relevance": "A practical connection between AI-agent research, identity controls, and secure software development."
     },
     {
       "id": "human-insider-expert-perceptions-2026",
