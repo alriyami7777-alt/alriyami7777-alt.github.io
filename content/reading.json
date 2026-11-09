@@ -1,6 +1,18 @@
 {
-  "lastReviewed": "2026-11-02",
+  "lastReviewed": "2026-11-09",
   "items": [
+    {
+      "id": "nist-ppfl-testbed-20261029",
+      "type": "news",
+      "title": "Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
+      "authors": "NIST National Cybersecurity Center of Excellence",
+      "venue": "Official research-resource announcement",
+      "date": "2026-10-29",
+      "dateLabel": "29 October 2026",
+      "url": "https://www.nccoe.nist.gov/news-insights/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset",
+      "summary": "NCCoE released software for comparing centralised and federated learning, with optional differential privacy, alongside a curated soybean genomic dataset.",
+      "relevance": "A practical resource for studying privacy and model-performance trade-offs when organisations cannot pool sensitive data. Its initial benchmark concerns genomics; applications to behavioural security would need separate evaluation."
+    },
     {
       "id": "nist-agent-identity-design-tenets-20261027",
       "type": "news",
@@ -14,16 +26,16 @@
       "relevance": "Useful for examining how automated actions can be traced to their originator and how access can be revoked when behaviour changes. It also separates permission enforcement from an agent's reasoning."
     },
     {
-      "id": "nist-agent-identity-20260929",
-      "type": "news",
-      "title": "NIST shares feedback on AI-agent identity and authorisation",
-      "authors": "NIST National Cybersecurity Center of Excellence",
-      "venue": "Official project update",
-      "date": "2026-09-29",
-      "dateLabel": "29 September 2026",
-      "url": "https://www.nccoe.nist.gov/news-insights/comments-software-and-agentic-si-identity-concept-paper",
-      "summary": "NCCoE has published feedback on its agent-identity project and selected software development as the first implementation use case.",
-      "relevance": "Relevant to attributing automated actions and limiting the authority of agents working inside an organisation."
+      "id": "explainable-multimodal-ueba-2026",
+      "type": "paper",
+      "title": "Explainable multi-modal unsupervised learning for insider threat detection in enterprise environments",
+      "authors": "Neda Baghalizadeh Moghadam, Frédéric Cuppens and Nora Boulahia-Cuppens",
+      "venue": "Journal of Information Security and Applications, volume 102, article 104581",
+      "date": "2026-11",
+      "dateLabel": "November 2026 · Journal issue",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2214212626002115",
+      "summary": "An unsupervised framework combines detectors for daily user activity, calibrates anomaly scores and supplies feature explanations with behavioural summaries. The study evaluates implementations on anonymised enterprise logs and CERT r4.2.",
+      "relevance": "Useful for distinguishing operational anomaly screening from validated threat detection: the enterprise logs lack reliable insider-threat labels, so they cannot establish detection accuracy."
     },
     {
       "id": "human-insider-expert-perceptions-2026",
@@ -72,18 +84,6 @@
       "url": "https://www.sciencedirect.com/science/article/pii/S2666827026001118",
       "summary": "A study that groups activity logs into sessions represented by 36 features, then evaluates supervised and unsupervised detection methods on CERT r4.2 and SPEDIA.",
       "relevance": "Useful for examining how session boundaries and feature construction affect evaluation. SPEDIA includes CERT-derived events, so the subsets used matter when interpreting cross-dataset evidence."
-    },
-    {
-      "id": "cert-dataset-decade-2026",
-      "type": "paper",
-      "title": "The CERT Dataset Decade: A Systematic Review of Methodological Evolution and Performance Bias",
-      "authors": "Marko Jurišić and Igor Tomičić",
-      "venue": "Journal of Criminal Justice and Security",
-      "date": "2026",
-      "dateLabel": "2026",
-      "url": "https://www.fvv.um.si/rv/arhiv/2026/2026-02-Jurisic-Tomicic-E.html",
-      "summary": "A review of methodological limitations in machine-learning studies using CERT, including how evaluation choices affect the interpretation of reported performance.",
-      "relevance": "Useful context for checking whether apparently comparable benchmark results answer the same research question."
     },
     {
       "id": "saliency-sanity-2018",
