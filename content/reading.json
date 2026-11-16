@@ -1,5 +1,5 @@
 {
-  "lastReviewed": "2026-11-09",
+  "lastReviewed": "2026-11-16",
   "items": [
     {
       "id": "nist-ppfl-testbed-20261029",
@@ -24,6 +24,18 @@
       "url": "https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems",
       "summary": "NIST outlines ten initial design principles for agent identity and access, including distinct identities, constrained delegation, short-lived permissions and human review. This is a project blog discussion, not a final standard.",
       "relevance": "Useful for examining how automated actions can be traced to their originator and how access can be revoked when behaviour changes. It also separates permission enforcement from an agent's reasoning."
+    },
+    {
+      "id": "insider-fraud-behavioural-pathways-2026",
+      "type": "paper",
+      "title": "Insider threat detection: a socio-technical analysis of behavioural pathways in malicious insider fraud",
+      "authors": "Monica T. Whitty, Christopher Ruddy, David Keatley and Hassan Jamil",
+      "venue": "Journal of Financial Crime, pages 1–19",
+      "date": "2026-11-12",
+      "dateLabel": "12 November 2026",
+      "url": "https://www.emerald.com/jfc/article/doi/10.1108/JFC-04-2026-0185/1408262/Insider-threat-detection-a-socio-technical",
+      "summary": "Using 36 publicly documented US insider-fraud cases, the researchers combine grounded theory with behaviour sequence analysis to examine how human actions and technical events unfold before offending.",
+      "relevance": "Useful for studying temporal warning signals beyond static offender profiles. The purposive case collection cannot establish prevalence or broad generalisation; proposed language-based detection remains a direction for further research."
     },
     {
       "id": "explainable-multimodal-ueba-2026",
@@ -84,18 +96,6 @@
       "url": "https://www.sciencedirect.com/science/article/pii/S2666827026001118",
       "summary": "A study that groups activity logs into sessions represented by 36 features, then evaluates supervised and unsupervised detection methods on CERT r4.2 and SPEDIA.",
       "relevance": "Useful for examining how session boundaries and feature construction affect evaluation. SPEDIA includes CERT-derived events, so the subsets used matter when interpreting cross-dataset evidence."
-    },
-    {
-      "id": "saliency-sanity-2018",
-      "type": "paper",
-      "title": "Sanity Checks for Saliency Maps",
-      "authors": "Julius Adebayo and colleagues",
-      "venue": "NeurIPS 2018",
-      "date": "2018",
-      "dateLabel": "2018 · Foundational reading",
-      "url": "https://papers.nips.cc/paper/2018/hash/294a8ed24b1ad22ec2e7efea049b8737-Abstract.html",
-      "summary": "A study of how to evaluate saliency methods, showing why visually convincing explanations alone are insufficient evidence of reliability.",
-      "relevance": "A starting point for designing checks of whether an explanation depends on what a model has learned."
     }
   ]
 }
