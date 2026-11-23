@@ -1,17 +1,17 @@
 {
-  "lastReviewed": "2026-11-16",
+  "lastReviewed": "2026-11-23",
   "items": [
     {
-      "id": "nist-ppfl-testbed-20261029",
+      "id": "gao-ai-cybersecurity-20261120",
       "type": "news",
-      "title": "Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
-      "authors": "NIST National Cybersecurity Center of Excellence",
-      "venue": "Official research-resource announcement",
-      "date": "2026-10-29",
-      "dateLabel": "29 October 2026",
-      "url": "https://www.nccoe.nist.gov/news-insights/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset",
-      "summary": "NCCoE released software for comparing centralised and federated learning, with optional differential privacy, alongside a curated soybean genomic dataset.",
-      "relevance": "A practical resource for studying privacy and model-performance trade-offs when organisations cannot pool sensitive data. Its initial benchmark concerns genomics; applications to behavioural security would need separate evaluation."
+      "title": "AI and Cybersecurity: Technologies Can Magnify Cyberattacks and Enhance Cyber Defense",
+      "authors": "U.S. Government Accountability Office",
+      "venue": "Technology assessment · GAO-27-108458",
+      "date": "2026-11-20",
+      "dateLabel": "20 November 2026",
+      "url": "https://www.gao.gov/products/gao-27-108458",
+      "summary": "GAO examines how AI supports cyberattacks and defence, drawing on literature, stakeholder interviews and an expert meeting. It identifies obstacles involving evaluation criteria, data quality and privacy, integration and governance.",
+      "relevance": "Useful context for testing security models and agents before operational use. The report discusses agent identity research, expanded testing environments and human authorisation for consequential actions as policy options, not binding requirements."
     },
     {
       "id": "nist-agent-identity-design-tenets-20261027",
